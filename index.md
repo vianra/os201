@@ -17,7 +17,7 @@ Semenjak website ini menjadi website
 **[URLs](URLs/)**
 
 # Link lagi gan
-[##Ga buka ga bisa tidur##](spb/)
+[Ga buka ga bisa tidur](spb/)
 
 # Lagi lagi
 Habis :D
