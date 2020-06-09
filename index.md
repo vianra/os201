@@ -1,17 +1,19 @@
-Welcome to GitHub Pages
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+# Siapa website ini?
+Website ini mengatakan dirinya website
 
-Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
+# Apa website ini?
+Website ini adalah website
 
-Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Mengapa website ini?
+Karena website ini adalah website
 
-Syntax highlighted code block
+# Bagaimana website ini?
+Yaitu dengan cara me-website-isasi website ini
 
-# Rony Agus Vian
-## vianra
-### Rony Agus Vian
+# Kapan website ini?
+Semenjak website ini menjadi website
 
+# Share-link dong gan
 - Bulleted
 - List
 
