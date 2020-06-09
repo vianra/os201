@@ -2,6 +2,6 @@
 permalink: /spb/
 ---
 
-<img src="cbk.jpg" width="256">
+<img src="spb.jpg" width="1024">
 
 #Terima kasih Pak Rahmat
